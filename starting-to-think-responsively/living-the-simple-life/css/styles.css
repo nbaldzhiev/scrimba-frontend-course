@@ -1,0 +1,51 @@
+/*  Fonts
+    -----
+    font-family: 'Lora', serif;
+    font-family: 'Ubuntu', sans-serif;
+ */
+
+
+h1 {
+    padding-top: 2rem;
+    font-family: 'Lora', serif;
+    font-size: 3.375rem;
+    color: #143774;
+    margin-bottom: 0.5rem;
+}
+
+.unordered-list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.subtitle, .item {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.item {
+    margin: 0 1em;
+}
+
+.subtitle {
+    color: #1792d2;
+    margin-top: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #f8f8f8;
+}
+
+a {
+    color: #707070;
+    text-decoration: none;
+}
+
+.home {
+    text-decoration: underline;
+}
